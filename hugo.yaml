@@ -1,7 +1,7 @@
 baseURL: https://www.schnellbach.de/hugo
 
 languageCode: bn
-title: "Mirko Schnellbach - Senior Consultant IT Infrastructure"
+title: "Mirko Schnellbach - Infrastructure & M365"
 
 # Use Hugo modules to add theme
 module:
