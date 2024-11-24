@@ -1,7 +1,7 @@
 baseURL: https://www.schnellbach.de/hugo
 
 languageCode: bn
-title: "John's Blog"
+title: "Mirko Schnellbach - Senior Consultant IT Infrastructure"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Mirko Schnellbach - Senior Consultant IT Infrastructure"
     weight: 1
   bn:
     languageCode: bn
