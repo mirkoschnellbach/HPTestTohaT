@@ -64,5 +64,6 @@
     }
   ],
   "frontMatter.git.enabled": true,
-  "frontMatter.website.host": "https://www.schnellbach.de/hugo"
+  "frontMatter.website.host": "https://www.schnellbach.de/hugo",
+  "frontMatter.framework.startCommand": "hugo server -w"
 }
