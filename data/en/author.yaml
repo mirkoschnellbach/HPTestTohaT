@@ -3,11 +3,11 @@ name: "Mirko Schnellbach"
 nickname: "Mirko"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/MirkoShot2.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "mirko.schnellbach@4iot.de"
-  phone: "+49761"
+  email: "mirko.schnellbach+web@4iot.de"
+  phone: "+4976121638942"
   github: 4IoTMirko
   linkedin: mirko-schnellbach-9389322b3
 
@@ -15,7 +15,7 @@ contactInfo:
 # some summary about what you do
 summary:
   - I am an infrastructure engineer
-  - I am an M365 enthusiast
-  - I love servers
+  - I am an M365 enthusiast, helping companies to and in the cloud
+  - I love servers, clients and mobile devices
   - I work on Azure, on-prem and M365 security
   - I'd love to work with you

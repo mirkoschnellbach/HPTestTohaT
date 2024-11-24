@@ -97,7 +97,7 @@ degrees:
   icon: fa-school
   timeframe: 2005-2010
   institution:
-    name: JK School of Science
+    name: Berufliches Schulzentrum Waldkirch
   grade: #(optional)
     scale: GPA
     achieved: 4.5
