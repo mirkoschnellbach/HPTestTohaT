@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Consultant IT Infrastructure
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: 4IoT GmbH
+  url: "https://www.4iot.de"
 
 
 # a summary about you
@@ -23,27 +23,20 @@ summary: 'আমি X বছর অভিজ্ঞতা সম্পন্ন �
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "mirko.schnellbach@4iot.de"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/4iotgmbh"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/mirko-schnellbach-9389322b3/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+- name: Bluesky
+  icon: "fab fa-bluesky"
+  url: "https://bsky.app/profile/madmirko.bsky.social"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
