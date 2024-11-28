@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate infrastructure engineer with 25 years of working experience, and can help you achieve operational excellence on-prem or in the Microsoft cloud. My current focus is on M365, Configuration Manager and Intune, Powershell and Automation, Security and Identity, particularly in Entra.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
