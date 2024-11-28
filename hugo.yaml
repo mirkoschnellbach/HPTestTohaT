@@ -34,7 +34,7 @@ languages:
   de:
     languageCode: de-DE
     languageName: Deutsch
-    title: "Mirko Schnellbach - Infrastructure & M365"
+    title: "Mirko Schnellbach - Infrastruktur & M365"
     weight: 3
 # default language for the content
 defaultContentLanguage: en
@@ -98,9 +98,9 @@ params:
         dark: true # enable dark theme. default "true"
         default: system # can be either light, dark or system. default "system"
 
-    # Enable and configure portfolio
+    # Enable and configure portfolio, notes?!
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
@@ -310,4 +310,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
