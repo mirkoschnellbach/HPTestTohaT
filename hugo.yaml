@@ -28,8 +28,14 @@ languages:
   bn:
     languageCode: bn
     languageName: বাংলা
+    disabled: true
     title: জনের ব্লগ
     weight: 2
+  de:
+    languageCode: de-DE
+    languageName: Deutsch
+    title: "Mirko Schnellbach - Infrastructure & M365"
+    weight: 3
 # default language for the content
 defaultContentLanguage: en
 
