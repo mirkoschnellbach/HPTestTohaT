@@ -26,7 +26,7 @@ summary: 'I am a passionate infrastructure engineer with 25 years of working exp
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "Mirko.Schnellbach+Web@4iot.de"
 
 - name: Github
   icon: "fab fa-github"
@@ -67,17 +67,17 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Endpoint Management
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Automation
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Scripting
   percentage: 85
   color: orange
 

@@ -1,4 +1,4 @@
-baseURL: https://www.schnellbach.de/hugo
+baseURL: https://www.schnellbach.de/
 
 languageCode: bn
 title: "Mirko Schnellbach - Infrastructure & M365"
@@ -34,6 +34,7 @@ languages:
   de:
     languageCode: de-DE
     languageName: Deutsch
+    disabled: true
     title: "Mirko Schnellbach - Infrastruktur & M365"
     weight: 3
 # default language for the content
