@@ -13,59 +13,60 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+- name: Cloud
+  filter: "cloud"
+- name: Automation
+  filter: "automation"
+- name: Endpoint Management
+  filter: "endpointmanagement"
+- name: On-prem
+  filter: "onprem"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Intune
+  logo: /images/sections/skills/intune.png
+  summary: "Skilled and experienced at all aspects of Intune, including co-management, MDM, MAM, Autopilot"
+  categories: ["endpointmanagement"]
+  url: "https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Entra ID
+  logo: /images/sections/skills/Entra.svg
+  summary: "Capable of designing cloud-only and hybrid identity management, especially experienced with Conditional Access. Lead tenant migration and go-to-cloud projects for SMEs."
+  categories: ["cloud"]
+  url: "https://learn.microsoft.com/en-us/entra/fundamentals/whatis"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: Microsoft 365
+  logo: /images/sections/skills/microsoft_365.png
+  summary: "Secure setup and operation of Microsoft's cloud office environment"
+  categories: ["cloud"]
+  url: "https://www.office.com/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+- name: Powershell
+  logo: /images/sections/skills/PowerShellCore.png
+  summary: "Automate workflows and achieve repeatable low-error outcomes"
+  categories: ["automation", "onprem", "cloud"]
+  url: "https://github.com/PowerShell/PowerShell"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: Microsoft SQL Server
+  logo: /images/sections/skills/Microsoft-SQL.png
+  summary: "Planning, operating, optimizing and securing Microsoft SQL Server"
+  categories: ["onprem"]
+  url: "https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+- name: Configuration Manager / Endpoint Manager
+  logo: /images/sections/skills/sccm.png
+  summary: "20+ years of experience and strong knowledge of all product areas"
+  categories: ["onprem","cloud"]
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+- name: Windows Client / Server
+  logo: /images/sections/skills/Windows_logo.png
+  summary: "Managed the complete lifecycle of Windows systems since NT4, experienced in Enterprise technology, clusters, Hyper-V, S2D"
+  categories: ["onprem"]
+  url: "https://learn.microsoft.com/en-us/windows-server/get-started/get-started-with-windows-server"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+- name: Autopilot
+  logo: /images/sections/skills/window-autopilot.png
+  summary: "Deploy fleets of well configured Windows endpoints, tailored to company standards"
+  categories: ["cloud"]

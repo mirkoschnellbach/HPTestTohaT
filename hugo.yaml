@@ -72,7 +72,7 @@ params:
   logo:
     main: /images/site/MirkoSchnellbach_dark.png
     inverted: /images/site/MirkoSchnellbach_light.png
-    favicon: /images/site/mS.png
+    favicon: /images/site/mS.svg
 
   # GitHub repo of your site
   gitRepo: https://github.com/mirkoschnellbach/HPTestTohaT
